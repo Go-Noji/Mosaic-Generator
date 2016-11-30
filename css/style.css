@@ -1,0 +1,26 @@
+html, body, div, img{
+  margin: 0;
+  padding: 0;
+}
+.area{
+  position: relative;
+}
+.imgBox{
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  z-index: 20;
+}
+.img{
+  width: 100%;
+}
+.moza{
+  position: absolute;
+  height: 0;
+}
+.originalImgBox{
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 10;
+}
