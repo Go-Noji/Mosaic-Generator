@@ -1,0 +1,2 @@
+# Mosaic-Generator
+JavaScriptによる力技での画像モザイクジェネレーター
